@@ -9,7 +9,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 
-spring.rabbitmq.host=127.0.0.1
+spring.rabbitmq.host=127.0.0.11
 
 eureka.client.service-url.defaultZone=http://127.0.0.1:6868/eureka/
 eureka.client.service-url.prefer-ip-address: true
